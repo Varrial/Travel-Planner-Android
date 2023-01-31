@@ -1,0 +1,41 @@
+
+c
+java:S1192["MDefine a constant instead of duplicating this literal "DELETE FROM " 4 times.(ÔŽ‘ô
+i
+java:S11923"NDefine a constant instead of duplicating this literal "CREATE TABLE " 4 times.(“ßÿôùÿÿÿÿ
+r
+java:S11926"WDefine a constant instead of duplicating this literal " INTEGER, FOREIGN KEY(" 3 times.(•£Ÿ™úÿÿÿÿ
+€
+java:S11923"eDefine a constant instead of duplicating this literal " INTEGER PRIMARY KEY AUTOINCREMENT, " 4 times.(“ßÿôùÿÿÿÿ
+_
+java:S1192["IDefine a constant instead of duplicating this literal " WHERE " 10 times.(ÔŽ‘ô
+i
+java:S11926"NDefine a constant instead of duplicating this literal ") REFERENCES " 3 times.(•£Ÿ™úÿÿÿÿ
+e
+java:S1192k"ODefine a constant instead of duplicating this literal "SELECT * FROM " 6 times.(äæçÂ
+d
+java:S11923"IDefine a constant instead of duplicating this literal " TEXT, " 14 times.(“ßÿôùÿÿÿÿ
+[
+java:S2259œ"DA "NullPointerException" could be thrown; "cursor" is nullable here.(æ·âÿ
+œ
+java:S1186A"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸†£êýÿÿÿÿ
+\
+java:S1126R"AReplace this if-then-else statement by a single return statement.(Ò›ò«øÿÿÿÿ
+\
+java:S1126a"AReplace this if-then-else statement by a single return statement.(ä²œ¼øÿÿÿÿ
+]
+java:S1126º"AReplace this if-then-else statement by a single return statement.(Ò›ò«øÿÿÿÿ
+]
+java:S1126Ç"AReplace this if-then-else statement by a single return statement.(ä²œ¼øÿÿÿÿ
+]
+java:S1126õ"AReplace this if-then-else statement by a single return statement.(Ò›ò«øÿÿÿÿ
+]
+java:S1126‚"AReplace this if-then-else statement by a single return statement.(ä²œ¼øÿÿÿÿ
+V
+java:S1854˜":Remove this useless assignment to local variable "tripId".(ë›µíûÿÿÿÿ
+G
+java:S1481˜"+Remove this unused "tripId" local variable.(ë›µíûÿÿÿÿ
+]
+java:S1126±"AReplace this if-then-else statement by a single return statement.(Ò›ò«øÿÿÿÿ
+]
+java:S1126¾"AReplace this if-then-else statement by a single return statement.(ä²œ¼øÿÿÿÿ

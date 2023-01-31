@@ -1,0 +1,13 @@
+
+l
+java:S11928"QDefine a constant instead of duplicating this literal "TravelPlannerTag" 4 times.(³æ£ñüÿÿÿÿ
+>
+java:S16040"(Make this anonymous inner class a lambda(õ­ïž
+X
+java:S1126*"BReplace this if-then-else statement by a single method invocation.(ùä¼
+B
+java:S11257"'Remove the unnecessary boolean literal.(˜åÑ¶þÿÿÿÿ
+B
+java:S1125?"'Remove the unnecessary boolean literal.(˜åÑ¶þÿÿÿÿ
+>
+java:S1185S"(Remove this method to simply inherit it.(É›ù×

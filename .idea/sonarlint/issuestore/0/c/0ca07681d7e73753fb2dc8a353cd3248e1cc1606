@@ -1,0 +1,15 @@
+
+2
+java:S1643I"Use a StringBuilder instead.(ùÈò÷
+J
+java:S1874""/Remove this use of "execute"; it is deprecated.(‘†ò‚øÿÿÿÿ
+L
+java:S18745"1Remove this use of "AsyncTask"; it is deprecated.(°şù·şÿÿÿÿ
+`
+java:S18747"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ËĞƒ
+>
+java:S11857"(Remove this method to simply inherit it.(ËĞƒ
+I
+java:S18748"4Remove this use of "onPreExecute"; it is deprecated.(”•P
+P
+java:S1874p"5Remove this use of "onPostExecute"; it is deprecated.(®ÓŠÒøÿÿÿÿ

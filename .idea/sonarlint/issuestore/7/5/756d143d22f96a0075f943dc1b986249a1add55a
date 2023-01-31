@@ -1,0 +1,26 @@
+
+E
+java:S3740!"/Provide the parametrized type for this generic.(˜ŒÖ
+>
+java:S1604q"(Make this anonymous inner class a lambda(×À«İ
+?
+java:S1604"(Make this anonymous inner class a lambda(Ï¤â“
+i
+java:S1104!"SMake adapter a static final constant or non-public and provide accessors if needed.(˜ŒÖ
+C
+java:S1444!"-Make this "public static adapter" field final(˜ŒÖ
+?
+java:S3010%"$Remove this assignment of "adapter".(Ü¦×¨ÿÿÿÿÿ
+P	java:S125e"<This block of commented-out lines of code should be removed.(Îüû
+]
+java:S1117o"BRename "dataBaseHelper" which hides the field declared at line 83.(¥è¸”úÿÿÿÿ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(‡ä­‰şÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(¡ıë±ûÿÿÿÿ
+K
+java:S1068M"0Remove this unused "locationView" private field.(µ¥š¾üÿÿÿÿ
+K
+java:S1068O"0Remove this unused "locationIcon" private field.(Š¾—×üÿÿÿÿ
+O
+java:S1068R"4Remove this unused "itemArrayAdapter" private field.(„Á‹Åùÿÿÿÿ
+M
+java:S1068S"2Remove this unused "dataBaseHelper" private field.(±„£Ñüÿÿÿÿ

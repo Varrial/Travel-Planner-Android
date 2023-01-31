@@ -1,0 +1,12 @@
+
+b	java:S107!"AConstructor has 8 parameters, which is greater than 7 authorized.(áÅÊ£üÿÿÿÿ8ÆöÄøİ0
+Q
+java:S1128"4Remove this unused import 'android.content.Context'.(©Ê‰è8ç™¤ûÕ0
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8ç™¤ûÕ0
+S
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8è™¤ûÕ0
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8è™¤ûÕ0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8è™¤ûÕ0

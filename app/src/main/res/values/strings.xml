@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TravelPlanner</string>
+    <string name="explore">Explore</string>
+    <string name="search">Search</string>
+    <string name="favourite">Favourite</string>
+    <string name="hello_name">Hello, Sonia</string>
+    <string name="where_are_we">Where are we</string>
+    <string name="going_today">going today?</string>
+    <string name="add_new_trip">Add new trip</string>
+    <string name="city">City</string>
+    <string name="country">Country</string>
+    <string name="start_of_the_trip">Start of the trip</string>
+    <string name="end_of_the_trip">End of the trip</string>
+    <string name="are_you_travelling_for_work">Are you travelling for work?</string>
+    <string name="things_you_need_to_pack">Things you need to pack</string>
+    <string name="name">Name</string>
+    <string name="is_it_already_packed">Is it already packed?</string>
+    <string name="add">Add</string>
+</resources>
